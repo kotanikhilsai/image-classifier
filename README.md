@@ -19,3 +19,4 @@ to implement this
                horses(images folder)
             t1
                test
+ic.yaml is the exported environment

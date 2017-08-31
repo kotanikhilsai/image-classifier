@@ -20,3 +20,9 @@ to implement this
             t1
                test
 ic.yaml is the exported environment
+
+
+please add the following in handhcopy-2 in import section:
+
+from keras.preprocessing.image import ImageDataGenerator, array_to_img, img_to_array, load_img
+img_width, img_height = 150, 150
